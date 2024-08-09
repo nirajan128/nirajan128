@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I'm Nirajan 👋
+** A frontend developer, pursuing a Diploma in Software Support in Canada.
+** Interested in Web development, I aim to be a full-stack developer
 
 <!--
 **nirajan128/nirajan128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
