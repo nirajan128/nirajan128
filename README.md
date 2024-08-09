@@ -5,7 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirajan128&bg_color=cbc3c7&color=0d0d0d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+---
 ### Skills and Technologies
 
 #### Frontend
@@ -35,14 +35,17 @@
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajan128&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Visitor Count Badge](https://visitor-badge.glitch.me/badge?page_id=nirajan128.yourrepository)
+![](https://api.visitorbadge.io/api/VisitorHit?user=nirajan128f&repo=github-visitors-badge&countColor=%237B1E7A)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajan128&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nirajan128&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Nirajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajan128&show_icons=true&theme=radical)
 
+---
 ### Contact Me
 
 - 📧 Email: [nirajanshrestha672@gmail.com](mailto:nirajanshrestha672@gmail.com)
