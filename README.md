@@ -4,8 +4,6 @@ I'm a PERN stack developer in Canada pursuing a diploma in software support. Pas
 
 I'm open to collaboration on exciting projects! If you're interested in working together or have any questions, feel free to reach out.
 
-[![Nirajan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirajan128&bg_color=cbc3c7&color=0d0d0d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ### Skills and Technologies
