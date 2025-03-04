@@ -10,7 +10,7 @@
     }
   }
 ```  
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=nirajan128f&repo=github-visitors-badge&countColor=%237B1E7A)  
 ---  
 
 <h3 align="left"> 🛠 Languages and Tools</h3>
@@ -31,16 +31,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
 
----  
 
-### 💼 Professional Expertise 
-- **Full-Stack Web Development**: Proficient in building dynamic, responsive, and scalable web applications using ReactJS, Node.js, and ExpressJS with seamless front-end to back-end communication.
--  **Backend Development & Database Management**: Skilled in designing secure and high-performance backend systems with .NET Core, C#, and PostgreSQL, ensuring scalability and data integrity.
--  **Cross-Platform System Familiarity**: Basic understanding of deploying applications on Linux environments, managing code efficiently using version control systems like Git and GitHub, and working with REST APIs to enable seamless integration between systems.
-
----  
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=nirajan128f&repo=github-visitors-badge&countColor=%237B1E7A)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajan128&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) 
 ![Nirajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajan128&show_icons=true&theme=radical)  
